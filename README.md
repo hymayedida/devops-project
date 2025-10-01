@@ -31,18 +31,6 @@ devops-project/
 
 ---
 
-## ✅ Git Best Practices Followed
-
-| Practice             | Description                                |
-|----------------------|--------------------------------------------|
-| 🪄 Commit History     | Clear, concise, and atomic commits         |
-| 🌿 Branching Model    | Follows `main`/`dev`/`feature/*` strategy  |
-| 🔀 Pull Requests      | Code merged via PRs (not direct pushes)    |
-| 🏷️ Tagging           | Release versions with annotated tags       |
-| 📂 Clean Repo         | `.gitignore` for excluding unnecessary files |
-| 📝 Markdown Docs      | Tasks tracked in `docs/TASKS.md`           |
-
----
 
 ## 📄 Documentation
 
@@ -63,4 +51,5 @@ Tags are used to mark stable points in the project (e.g., `v1.0.0`, `v1.1.0`). Y
 
 ```bash
 git tag
+
 
